@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <form method="post" action="./valida.php">
+    <form method="post" action="valida.php">
       <label for="nome">Nome:</label>
       <input  type="text" name="nome"/><br>
       <label for="masc">Masc</label>
